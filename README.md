@@ -61,3 +61,5 @@ The project also features an interactive **Streamlit** user interface to visuali
 - **U-Net**: For semantic segmentation tasks, especially in biomedical and image analysis domains.
 - **ResNet**: For utilizing powerful pre-trained models that help speed up the training process and improve model accuracy.
 - **RTK Dataset**: For providing a diverse set of real-world road images with various surface types and conditions, allowing for better generalization of the model.
+
+- **Reference**: https://link.springer.com/article/10.1007/s10514-020-09964-3
