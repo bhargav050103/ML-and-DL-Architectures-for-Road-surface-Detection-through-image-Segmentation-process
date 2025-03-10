@@ -1,0 +1,14 @@
+id,class
+0,background
+1,roadAsphalt
+2,roadPaved
+3,roadUnpaved
+4,roadMarking
+5,speedBump
+6,catsEye
+7,stormDrain
+8,manholeCover
+9,patchs
+10,waterPuddle
+11,pothole
+12,craks
