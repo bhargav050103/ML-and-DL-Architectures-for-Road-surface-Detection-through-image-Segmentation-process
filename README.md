@@ -1,4 +1,4 @@
-# Road Surface Semantic Segmentation for Autonomous Navigation
+# Road Surface Semantic Segmentation using Machine Learning and Deep Learning Architectures
 
 ## Overview
 
